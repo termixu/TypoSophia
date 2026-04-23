@@ -1,95 +1,74 @@
-Этот проект создан для исследования מָשָׁל (маша́ль) — притч, образов, символов, которыми Яхве говорит с человеком. Не через философию, не через догматы, а через живое Слово, явленное в истории, в пророках, в самой ткани творения.
-Здесь мы не строим теорий. Мы возвращаемся к истоку. К тому, что Яхве открыл о Себе в ТаНаХе. К языку, в котором имя вещи отражает её суть. К образам, которые не выдуманы человеком, а вложены Творцом в мир.
+# 🕯️ TypoSophia (טיפוסופיה)
 
-עַל מָה הַפְּרוּיֶקְט — О чём этот проект
+**AI-powered discovery of biblical types and shadows. Teaching the neural network to recognize divine patterns woven through Torah, Prophets, Writings — from Eden to the Throne.**
 
-О прообразах. О том, как:
+---
 
-· אָדָם (Адам) становится прообразом того, кто прид
-· יְהוֹשֻׁעַ (Йехошуа) носит имя, которое станет спасением
-· מֹשֶׁה (Моше) выводит из Египта, указывая на Исход
-· מַלְכִּי־צֶדֶק (Малки-Цедек) — царь справедливости, священник без родословия
-· הַמִּשְׁכָּן (Мишкан) — скиния, где небесное встречается с земным
-· שַׁבָּת (Шаббат) — покой, который начинается ещё до греха
+## 🎯 What This Project Does
 
-Всё в ТаНаХе — прообраз. Не потому что человек придумал символы, а потому что Яхве говорит через историю. Каждое событие, каждый предмет, каждое имя несёт в себе отблеск будущего.
+The Hebrew Scriptures are filled with **types** (patterns) and **shadows** (foreshadowings) that point to deeper realities. A lamb. A temple. A king. A wilderness journey. A bride.
 
-עִקָּרוֹן — Принцип исследования
+But these patterns are not random. They form a coherent, divine language of prophetic symbolism.
 
-נִסְתָּרֹת לַיהוָה אֱלֹהֵינוּ וְהַנִּגְלֹת לָנוּ וּלְבָנֵינוּ עַד־עוֹלָם
-«Сокрытое принадлежит Яхве, Элоhим нашему, а открытое — нам и сыновьям нашим навеки» (Дварим 29:29)
+**TypoSophia trains AI to see what the prophets saw:**
 
-Мы не ищем тайн, которые Яхве не открыл. Мы изучаем то, что Он открыл. В слове. В образе. В истории.
+- How the Passover lamb prefigures deliverance
+- How the Tabernacle's structure mirrors creation
+- How Moses, David, and Jonah echo the same pattern
+- How marriage, covenant, and redemption weave through every book
 
-Принципы исследования:
+---
 
-1. מִקְרָא — Писание как основа
-   Никаких человеческих домыслов. Только ТаНаХ. Только язык, на котором Яхве говорил с пророками.
-2. עִבְרִית — Иврит как ключ
-   Без перевода, который искажает. Без «Господа» и «Бога». Только корни, только буквы, только буквальный смысл, открывающий глубину.
-3. מָשָׁל — Образ как дверь
-   Видимое — это дверь в невидимое. Земное — тень небесного. Но не любая тень, а та, которую поставил Сам Творец.
-4. הִתְגַּלּוּת — Откровение через историю
-   Пророки — не предсказатели. Они — те, кто видят. Их видения — не абстракции, а реальность, которая становится.
+## 🧠 What The AI Model Learns
 
-סֵדֶר הַמְּקוֹמוֹת — Структура
+**Layer 1 — Pattern Recognition**  
+Identifies recurring motifs: water, mountain, tree, blood, veil, stone, fire, cloud, name, rest.
 
-חֲמִשָּׁה חֻמְּשֵׁי תּוֹרָה — Пятикнижие
+**Layer 2 — Typological Mapping**  
+Builds a network of shadows: "X in Torah → Y in Prophets → Z in Writings → ultimate reality"
 
-· Берешит: сотворение, падение, обетование
-· Шмот: Исход как прообраз освобождения
-· Ваикра: жертва и святость
-· Бемидбар: путь в пустыне
-· Дварим: слово перед входом
+**Layer 3 — Radial Typology**  
+Not just linear prophecy → fulfillment. But central truth radiating outward through all Scripture.
 
-נְבִיאִים — Пророки
+**Layer 4 — Hebrew Etymology**  
+Connects word roots to their typological weight. Why *אֹהֶל* (tent) → *מִשְׁכָּן* (dwelling) → *שָׁכַן* (to dwell) reveals God's presence pattern.
 
-· Йешаягу: страдающий раб, свет народам
-· Ирмеягу: новый союз, написанный на сердце
-· Йехезкель: сухие кости, новый дух
+---
 
-כְּתוּבִים — Писания
+## 📖 Types We Teach The AI
 
-· Тегилим: псалмы как пророчества
-· Мишлей: мудрость как образ
-· Иов: страдание как дверь
+| Type (Shadow) | Pattern | Fulfillment Reality |
+|---------------|---------|---------------------|
+| Adam | First man, image-bearer, failure | The Son of Adam who succeeds |
+| Noah's Ark | Salvation through judgment | Refuge in coming wrath |
+| Abraham's sacrifice | Father offering son | The Mountain where He provides |
+| Passover Lamb | Blood on doorposts | Covering from the Destroyer |
+| Manna | Bread from heaven | Daily dependence, living word |
+| Tabernacle | God dwelling among His people | He who tabernacled among us |
+| Bronze Serpent | Lifted up for healing | Lifted up to draw all |
+| Scapegoat | Sins carried away | Complete removal, not just forgiveness |
+| High Priest | Mediator entering Holy of Holies | The one who ever lives to intercede |
+| King David | Shepherd-king, covenanted | The greater Son of David |
+| Suffering Servant | Isaiah 53 — pierced for transgressions | Wounded for our rebellion |
+| The Vine | Israel as God's planting | The true Vine, branches one with Him |
+| Bride | Covenant relationship | The beloved, prepared, adorned |
 
-בְּרִית חֲדָשָׁה — БаШаХ (с осторожностью)
-Писания, которые пришли после, читаем в свете ТаНаХа. Не как замену, а как свидетельство.
+---
 
-אֵיךְ לִקְרוֹא — Как читать
+## 🔬 Methodology
 
-1. קְרָא — Читай
-   Открой ТаНаХ. Читай медленно. Не ищи «символ», ищи смысл.
-2. שְׁאַל — Спрашивай
-   Что это слово значит на иврите? Какой его корень? Где ещё оно встречается?
-3. רְאֵה — Смотри
-   Какие образы повторяются? Где Яхве уже говорил так раньше?
-4. הַשְׁוֵה — Сравнивай
-   Не вырывай из контекста. Сравнивай стих со стихом, книгу с книгой, пророка с пророком.
-5. הַאֲמֵן — Верь
-   Не в свою мудрость, а в то, что Яхве открыл. Истина не меняется от того, понял ты её или нет.
+**Step 1 — Manual Annotation**  
+Scholars and theologians tag typological connections across the Tanakh. Build training dataset.
 
-יַעַד — Цель
+**Step 2 — Embedding Model**  
+Train Hebrew lemma embeddings. "Lamb" (*שה*, *כבש*) clusters with "deliverance," "Passover," "substitution."
 
-Не «разобрать» Писание. Не «доказать» свою правоту. А увидеть. Увидеть, как:
+**Step 3 — Pattern Detection**  
+Model learns to find radial types: same shadow appearing in multiple places with same theological weight.
 
-· Яхве говорит через историю
-· Пророки видят то, что сбудется
-· Образы ветхого становятся явными в новом
-· Имя יְהוֹשֻׁעַ (Йехошуа) несёт спасение
-· Союз בְּרִית (брит) не отменяется, а наполняется
+**Step 4 — Cross-Reference Generation**  
+Given any verse, AI suggests typological connections elsewhere in Scripture.
 
-
-אַחְרָיוּת — Об ответственности
-
-וִידַעְתֶּם אֶת־הָאֱמֶת וְהָאֱמֶת תְּשַׁחְרֵר אֶתְכֶם
-«И познаете истину, и истина сделает вас свободными» (Йн. 8:32)
-
-Знание не для гордости. Знание для свободы. Чтобы выйти из Египта. Чтобы не поклоняться чужим богам. Чтобы видеть свет, когда вокруг тьма.
-
-Этот проект — не учебник. Это מקום (маком) — место, где можно встретиться с истиной. Если ты ищешь — иди. Если ты нашёл — делись.
-
-יְהִי אוֹר
-Да будет свет
+**Step 5 — Typological Commentary**  
+AI writes explanations: *"This image of water appears at creation, flood, Red Sea, and the rock struck for water — all pointing to..."*
 
